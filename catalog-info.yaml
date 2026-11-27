@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Spoon-Knife
+  annotations:
+    github.com/project-slug: cabritoolaf/Spoon-Knife
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
